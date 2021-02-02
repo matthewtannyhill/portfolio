@@ -644,7 +644,7 @@ footer {
 .project {
     position: relative;
     max-width: 900px;
-    margin: 0 auto 30px auto;
+    margin: 100px auto 100px auto;
     overflow: hidden;
     background: #fff;
     border-radius: 4px;
@@ -652,6 +652,7 @@ footer {
 
 .project-image {
     float: left;
+    margin: 200px auto 200px auto;
 }
 
 .project-info {
